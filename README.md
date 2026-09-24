@@ -136,7 +136,7 @@ pip install pandas numpy matplotlib seaborn scipy jupyter
 
 Open the analysis notebook:
 
-[Taxi Payment Type Revenue Analysis](./taxi_payment_type_revenue_analysis.ipynb)
+[Taxi Payment Type Revenue Analysis](./notebook/taxi_payment_type_revenue_analysis.ipynb)
 
 Run the notebook cells sequentially to reproduce the data cleaning, exploratory analysis, visualizations, and hypothesis testing.
 
@@ -146,7 +146,7 @@ Run the notebook cells sequentially to reproduce the data cleaning, exploratory 
 
 The project reports are available in the `report/` directory:
 
-[Customer Churn Analysis Report](./report/Customer_Churn_Analysis_Report.pdf)
+[Customer Churn Analysis Report](./report/Taxi_Payment_Type_Revenue_Analysis_Report.pdf)
 
 [Maximizing Revenue Report](./report/maximizing_revenue_report.pptx)
 
